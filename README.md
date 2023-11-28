@@ -1,6 +1,6 @@
 # Wireguard Docker Project Documentation
-<font color="gold"> Elizabeth Christensen</font>
-<font color="white">
+<font color="gold"> Elizabeth Christensen</font>  
+<font color="white">  
 Create a digitalocean account  
 Create a 20.04 ubuntu droplet with the following specifications:  
 - Choose cheapest droplet = $4/month  
